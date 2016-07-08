@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -60,4 +60,7 @@
       Title="Image Within List"
       Link="/Content/D_Images/ImageWithinList.htm" />
   </TocEntry>
+  <TocEntry
+    Title="Test"
+    Link="/Content/Test.htm" />
 </CatapultToc>
